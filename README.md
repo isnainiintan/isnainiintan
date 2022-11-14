@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 An gemini girl who loves music, 
-watching korean dramas and of course like to sleep hihi ><.
+<br>watching korean dramas and of course like to sleep hihi ><.
 
 
 ## 🔗 Connect With Me 👇
