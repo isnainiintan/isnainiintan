@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://awesome-svg.vercel.app/card/card_2?name=MD.ISNAINI%20INTAN%20NUR%20KHISANAH&summary=mAHASISWA%20iNFORMATIKA&style=nameColor:rgba(244,34,150,1);summaryColor:rgba(232,49,150,1);backgroundColor:rgba(255,255,255,1);" />
+<img src="https://awesome-svg.vercel.app/card/card_2?name=ISNAINI%20INTAN%20NUR%20KHISANAH&summary=MAHASISWA%20INFORMATIKA&style=nameColor:RGBA( 119, 136, 153, 1 );summaryColor:RGBA( 119, 136, 153, 1 );backgroundColor:RGBA( 176, 196, 222, 1 );" />
 
 ## 🚀 About Me
 
