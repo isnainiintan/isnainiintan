@@ -4,11 +4,8 @@
 
 ## 🚀 About Me
 
-Informatics student
-
-An gemini girl who loves music, watching
-
-korean dramas and of course like to sleep hihi ><.
+An gemini girl who loves music, 
+watching korean dramas and of course like to sleep hihi ><.
 
 
 ## 🔗 Connect With Me 👇
